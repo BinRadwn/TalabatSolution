@@ -1,0 +1,30 @@
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\Back-End\mm\New folder\2\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+F:\Rout\Back-End\C# 02\ASP.NET MVC 06\Project Api\Talabat-Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
